@@ -1,0 +1,19 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+.DS_Store
+
+# Google Services (don’t expose Firebase keys)
+app/google-services.json
+
+# Test Lab artifacts
+outputs/
+
+# Misc
+captures/
